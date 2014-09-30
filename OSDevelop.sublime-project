@@ -13,8 +13,12 @@
 	"folders":
 	[
 		{
-			"path": "/C/yniver/OSDevelop",
-			"file_exclude_patterns": ["*.exe"]
+			"file_exclude_patterns":
+			[
+				"*.exe",
+				"*.o"
+			],
+			"path": "/C/yniver/OSDevelop"
 		}
 	]
 }
